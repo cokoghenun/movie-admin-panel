@@ -1,0 +1,22 @@
+{
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "clonedFromApplicationId": "6297319db4c51656bfebe987",
+  "color": "#C2DAF0",
+  "icon": "bag",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "createdAt": {
+    "seconds": 1654216426,
+    "nanos": 108000000
+  },
+  "deleted": false
+}
